@@ -1,0 +1,14 @@
+{
+  "name": "sensorify-huayun",
+  "version": "1.0.0",
+  "description": "npm package publish test ",
+  "main": "censortext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "censorify"
+  ],
+  "author": "huayun321@gmail.com",
+  "license": "ISC"
+}
